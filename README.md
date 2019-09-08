@@ -12,7 +12,7 @@ Please cite this paper if you make use of this repository.
 
 Autologistic regression is a statistical model for analysis of correlated binary responses.  For details, see the above-linked article.  [An online demo](http://www.mwolters.com/misc/2016/1114-ALRcoding.html) can also provide some background. Using the code in this repository, one can fit autologistic regression models and also explore the characteristics of such models, e.g. by drawing samples from them.  
 
-While considerable effort has been made to ensure that the software is correct and useful, it is research-level software.  A more comprehensive and performant implementation is currently under development (using the [Julia](https://julialang.org/) language) at the time of writing.
+While considerable effort has been made to ensure that the software is correct and useful, it is research-level software.  A more comprehensive and performant implementation in the [Julia](https://julialang.org/) language can be found at the [Autologistic.jl](https://github.com/kramsretlow/Autologistic.jl) repository.
 
 ## Brief Description of the Code 
 
